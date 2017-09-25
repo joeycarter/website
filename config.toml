@@ -30,9 +30,14 @@ theme = "minimal"
     weight = 2
 
 [[menu.main]]
+    url = "/cv/"
+    name = "CV"
+    weight = 3
+
+[[menu.main]]
     url = "/post/"
     name = "Blog"
-    weight = 3
+    weight = 4
 
 
 # [[menu.main]]
