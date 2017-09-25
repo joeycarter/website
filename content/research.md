@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2017-09-24T14:47:22-04:00
+date: 2017-09-24
 draft: true
 type: "info"
 ---
