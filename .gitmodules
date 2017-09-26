@@ -1,6 +1,6 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
 [submodule "public"]
 	path = public
 	url = git@github.com:joeycarter/joeycarter.github.io.git
+[submodule "themes/para-minimal"]
+	path = themes/para-minimal
+	url = git@github.com:joeycarter/para-minimal.git
