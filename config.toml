@@ -2,7 +2,7 @@ baseURL = "https://joeycarter.github.io"
 languageCode = "en-us"
 title = "Joey Carter"
 theme = "para-minimal"
-# disqusShortname = "username" # delete this to disable disqus comments
+# disqusShortname = "username"  # delete this to disable disqus comments
 
 [params]
     author = "Joey Carter"
@@ -11,7 +11,7 @@ theme = "para-minimal"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Open Sans"  # should match the name on Google Fonts!
     titlefont = "Playfair Display"
     titlefontlink = "Playfair+Display"
     fontsize = "16px"
