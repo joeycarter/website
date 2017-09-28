@@ -59,6 +59,11 @@ theme = "para-minimal"
     name = "github"
     weight = 2
 
+[[menu.icon]]
+    url = "https://gitlab.cern.ch/jocarter"
+    name = "gitlab"
+    weight = 3
+
 # [[menu.icon]]
 #     url = "https://twitter.com/username/"
 #     name = "twitter"
