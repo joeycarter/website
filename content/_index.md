@@ -4,4 +4,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum odio
 
 E-mail: [jcarter@physics.utoronto.ca](mailto:jcarter@physics.utoronto.ca)
 
-Phone: (416) 978-6632
+Phone: **U of T** 416-978-6632 | **CERN** +41-22-76-71272

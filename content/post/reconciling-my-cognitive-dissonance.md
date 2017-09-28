@@ -1,5 +1,6 @@
 ---
-title: "Reconciling My Cognitive Dissonance: An Invitation to Start Writing Again"
+title: "Reconciling My Cognitive Dissonance"
+description: "An Invitation to Start Writing Again"
 date: 2017-04-03
 tags: ["science", "physics", "writing"]
 draft: false
@@ -29,4 +30,4 @@ Even as I’m writing this post I feel anxious because there are assignments I s
 
 Again, I know of few people who haven’t been afflicted by such existential uncertainty. People have found different ways to cope, but what has helped me most in the past has been writing. Putting my thoughts down in plain, concise language forces me to distill what it is I’m thinking down to its essence---in physics terms this is a classic case of subtracting the background noise in search of the signal. Ideas are fleeting, and writing gives a sense of permanence to them too. My hope is that this blog will act as a sort of map that I’m drawing as I explore---to keep track of where I’ve been, and to help navigate to where I ought to go. I think doing so will be therapeutic for me and for my mental health.
 
-It might sound paradoxical, but maybe taking time out of research to write about physics will help remind me why it is that I love doing physics and figuring out the mysteries of nature.
+It might sound paradoxical, but maybe taking time out of research to write about physics will help remind me why it is that I love *doing* physics and figuring out the mysteries of nature.
