@@ -1,11 +1,13 @@
 ---
 title: "Take a Science Course"
-date: 2017-09-25
+date: 2014-09-25
 tags: ["science", "education"]
 draft: false
 ---
 
-This essay was originally published on [Carleton's Learning Log](http://learninglog.carleton.ca/2014/09/take-science-course/) on September 25, 2014, three years ago to this day. I wanted to revisit it to give it some long-overdue polishing and clarification.
+**Update** | September 25, 2017
+
+This essay was originally published on [Carleton's Learning Log](http://learninglog.carleton.ca/2014/09/take-science-course/) three years ago to this day. I wanted to revisit it to give it some long-overdue polishing and clarification.
 
 ***
 
