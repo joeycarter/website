@@ -2,7 +2,7 @@ baseURL = "https://joeycarter.github.io"
 languageCode = "en-us"
 title = "Joey Carter"
 theme = "para-minimal"
-# disqusShortname = "username"  # delete this to disable disqus comments
+disqusShortname = "joeycarter"  # uncomment to enable disqus comments
 
 [params]
     author = "Joey Carter"
