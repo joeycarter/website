@@ -1,5 +1,6 @@
 ---
 title: "Take a Science Course"
+description: "Reflections on the value of a science education"
 date: 2014-09-25
 tags: ["science", "education"]
 draft: false

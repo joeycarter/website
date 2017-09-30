@@ -3,6 +3,7 @@ title: "Research"
 date: 2017-09-24
 draft: true
 type: "info"
+disableComments: true
 ---
 
 I am interested in the interactions of elementary particles.

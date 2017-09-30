@@ -1,6 +1,6 @@
 ---
 title: "Reconciling My Cognitive Dissonance"
-description: "An Invitation to Start Writing Again"
+description: "An invitation to start writing again"
 date: 2017-04-03
 tags: ["science", "physics", "writing"]
 draft: false

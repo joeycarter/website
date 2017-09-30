@@ -3,6 +3,7 @@ title: "CV"
 date: 2017-09-24
 draft: false
 type: "info"
+disableComments: true
 ---
 
 ## Education
