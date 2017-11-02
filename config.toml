@@ -12,12 +12,10 @@ disqusShortname = "joeycarter"  # uncomment to enable disqus comments
     showBorder = true
     backgroundColor = "white"
     font = "Open Sans"  # should match the name on Google Fonts!
-    titlefont = "Playfair Display"
-    titlefontlink = "Playfair+Display"
     fontsize = "16px"
     highlight = true
     highlightStyle = "github"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "python"]
+    highlightLanguages = ["go", "python"]
 
 [[menu.main]]
     url = "/"

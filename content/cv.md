@@ -19,6 +19,9 @@ Carleton University, Ottawa, ON
 
 ## Honours and Awards
 
+**Edward Christie Stevens Awards In Nuclear Physics** &middot; 2017  
+University of Toronto
+
 **Faculty of Arts & Science Graduate Admission Award** &middot; 2016  
 University of Toronto
 
