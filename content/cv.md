@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2017-09-24
+date: 2019-04-27
 draft: false
 type: "info"
 disableComments: true
@@ -19,8 +19,14 @@ Carleton University, Ottawa, ON
 
 ## Honours and Awards
 
+**Cray Inc. Fellowships In Physics** &middot; 2018  
+University of Toronto &middot; Graduate Fellowship
+
 **Edward Christie Stevens Awards In Nuclear Physics** &middot; 2017  
-University of Toronto
+University of Toronto &middot; Graduate Fellowship
+
+**University of Toronto Fellowship, Faculty of Arts & Science** &middot; 2016  
+University of Toronto &middot; Graduate Fellowship
 
 **Faculty of Arts & Science Graduate Admission Award** &middot; 2016  
 University of Toronto
@@ -50,9 +56,9 @@ Carleton University
 
 ## Teaching
 
-**Physics Teaching Assistant** &middot; 2016 -- 2017  
+**Physics Teaching Assistant** &middot; 2016 -- present  
 University of Toronto  
-Courses: PHY131H1F and PHY152H1
+Courses: PHY131H1F, PHY152H1 and PHY224H1
 
 **Physics Teaching Assistant** &middot; 2015 -- 2015  
 Carleton University  
