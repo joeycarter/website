@@ -17,6 +17,9 @@ disqusShortname = "joeycarter"  # uncomment to enable disqus comments
     highlightStyle = "github"
     highlightLanguages = ["go", "python"]
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [[menu.main]]
     url = "/"
     name = "Home"
