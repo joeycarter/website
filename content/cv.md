@@ -60,7 +60,7 @@ Carleton University
 University of Toronto  
 Courses: PHY131H1F, PHY152H1, PHY294H1 and PHY224H1
 
-**Physics Teaching Assistant** &middot; 2015 -- 2015  
+**Physics Teaching Assistant** &middot; 2015 -- 2016  
 Carleton University  
 Courses: PHYS 1007 and PHYS 1004
 
