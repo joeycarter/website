@@ -11,8 +11,9 @@ disqusShortname = "joeycarter"  # uncomment to enable disqus comments
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Open Sans"  # should match the name on Google Fonts!
+    font = "Merriweather"  # should match the name on Google Fonts!
     fontsize = "16px"
+    headerFont = "Playfair Display"
     highlight = true
     highlightStyle = "github"
     highlightLanguages = ["go", "python"]
@@ -56,26 +57,16 @@ disqusShortname = "joeycarter"  # uncomment to enable disqus comments
     weight = 1
 
 [[menu.icon]]
+    url = "https://www.linkedin.com/in/joey-snarrcarter/"
+    name = "linkedin"
+    weight = 2
+
+[[menu.icon]]
     url = "https://github.com/joeycarter/"
     name = "github"
-    weight = 2
+    weight = 3
 
 [[menu.icon]]
     url = "https://gitlab.cern.ch/jocarter"
     name = "gitlab"
-    weight = 3
-
-# [[menu.icon]]
-#     url = "https://twitter.com/username/"
-#     name = "twitter"
-#     weight = 3
-
-# [[menu.icon]]
-#     url = "https://www.linkedin.com/in/username/"
-#     name = "linkedin"
-#     weight = 4
-
-# [[menu.icon]]
-#     url = "https://www.stackoverflow.com/username/"
-#     name = "stack-overflow"
-#     weight = 5
+    weight = 4
