@@ -19,7 +19,7 @@ My research activities as an undergraduate prior to 2015 focused on developing x
 <br>
 
 <div align="center">
-    <a href="https://www.physics.utoronto.ca/">
+    <a href="https://www.physics.utoronto.ca/" target="_blank">
     <img height=120px alt="U of T" src="../img/uoft.png"/ align="middle" hspace="50"></a>
     <a href="https://atlas.cern/" target="_blank">
     <img height=120px alt="ATLAS" src="../img/atlas.png"/ align="middle" hspace="50"></a>
