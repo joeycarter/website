@@ -6,6 +6,8 @@ I am a PhD student at the University of Toronto working on the [ATLAS Experiment
 
 Among other things, I enjoy writing, music, comedy, cycling and all things science. I have a growing interest in free and open-source software as well; check out some of my projects over on [Github](https://github.com/joeycarter).
 
+-----
+
 ## Contact
 
 <i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp; [jcarter@physics.utoronto.ca](mailto:jcarter@physics.utoronto.ca)
