@@ -2,7 +2,7 @@
 title: "Dundas Street: Change the Namesake, not the Name"
 description: "The city of Toronto has voted to change the name of Dundas Street in light of its namesake Henry Dundas's role in the transatlantic slave trade. But with an estimated cost of up to $6.3 million, there is a better way: change the namesake, not the name."
 date: 2021-07-15
-tags: ["Toronto", "Politics"]
+tags: ["toronto", "politics"]
 draft: false
 ---
 
