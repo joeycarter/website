@@ -56,7 +56,7 @@ Carleton University
 
 ## Teaching
 
-**Physics Teaching Assistant** &middot; 2016 -- present  
+**Physics Teaching Assistant** &middot; 2016 -- 2020  
 University of Toronto  
 Courses: PHY131H1F, PHY152H1, PHY294H1 and PHY224H1
 
