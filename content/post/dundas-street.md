@@ -15,12 +15,12 @@ In doing so, they have opted to "tidy up" the problem while diverting resources 
 Some 68 km of road bear the name "Dundas Street" in one form or another in the Greater Toronto Area, from Kingston Rd in the East to Highway 6 in the West, with roughly 23 km within the city of Toronto limits.
 A small stretch is also found in the town of Dundas, ON, just outside Hamilton.
 The street, and the town, are named after Henry Dundas (1742-1811), a Scottish politician who was a [significant player in the delay of the abolition of the transatlantic slave trade](http://eprints.gla.ac.uk/240875/).
-Dundas was friends with John Graves Simcoe, Lieutenant Governor of Upper Canada, who named the town of Dundas after him, and eventually [the street leading to Dundas, ON was named accordingly by Simcoe in 1793](https://www.toronto.ca/legdocs/mmis/2020/ex/bgrd/backgroundfile-156448.pdf).
+Dundas was friends with John Graves Simcoe, Lieutenant Governor of Upper Canada, who named the town of Dundas after him, and eventually [the street leading to Dundas, ON as well in 1793](https://www.toronto.ca/legdocs/mmis/2020/ex/bgrd/backgroundfile-156448.pdf).
 
 Henry Dundas's actions are deplorable and not deserving of commemoration.
-However, the city's decision to expunge the name "Dundas" from our streets falls short in how it is using public funds and resources to address the problem of systemic racism in our society.
+However, the city's decision to expunge the name "Dundas" from our streets and public spaces is misguided in how it is using public funds and resources to address the problem of systemic racism in our city.
 Changing a name is easy on paper and on maps, but in practice it is an immense and expensive undertaking for a street as long and as engrained in the city's landscape as Dundas Street.
-Changing the name would involve removing the current street signs, printing and mounting new signs bearing the new name, changing public transit signage, and local businesses having to change their addresses.
+Changing the name would involve removing the current street signs, printing and mounting new signs bearing the new name, changing public transit signage, and local businesses—already battered by the COVID-19 pandemic—having to change their addresses.
 [The total cost is expected to be in the range of $5.1 million to $6.3 million over two years](https://www.cbc.ca/news/canada/toronto/toronto-renaming-dundas-street-1.6103260).
 When you consider other Toronto streets that bear the names of slave-owners, William Jarvis for example, the price tag inflates even more.
 I have lived in Toronto since 2016, and plan to live here for the foreseeable future, so I and other Torontonians have a vested interest in how the city spends public funds.
@@ -28,7 +28,7 @@ I believe this money could be put to better use.
 
 Changing a street name is a largely symbolic gesture.
 Instead, the city could engage with the communities it claims a street-name change would benefit and ask how that money could be used to improve the city in a more concrete way, whether it's building a community centre, affordable housing, improving mental health support and outreach, or any other number of things the city is desperately lacking.
-Let's not forget that [many First Nations communities still lack clean drinking water](https://www.cbc.ca/news/politics/auditor-general-reports-2021-1.5927572); a few million dollars would surely help this cause.
+Let's not forget that [many First Nations communities still lack clean drinking water](https://www.cbc.ca/news/politics/auditor-general-reports-2021-1.5927572); could a family justify retiling their backyard pool while their neighbours go thirsty?
 
 With this money earmarked, what then is the city to do with the name "Dundas"?
 One solution is to simply remove the namesake.
@@ -38,14 +38,14 @@ It may sound flippant and a cop-out ("We all know which Dundas it really is," cr
 
 A better solution, I think, would be to keep the name "Dundas", but to change the namesake.
 This avoids the issue of having no namesake, while still removing the association to Henry Dundas.
-It is a simple, elegant, and more importantly, inexpensive solution that address all the issues that have been raised about naming public institutions and infrastructure after racist, colonialist men from the past, without spending millions of dollars changing street signs.
-It's not the first time it's been considered either: the township of Russell, ON, near Ottawa, [has voted to "rededicate" their town](https://www.cbc.ca/news/canada/ottawa/russell-township-name-rededication-motion-1.5639713) from Peter Russel, a pre-Confederation government official who owned slaves, to another, more noble "Russel" (still to be determined).
+It is a simple, elegant, and more importantly, inexpensive solution that addresses all the issues that have been raised about naming public institutions and infrastructure after racist, colonialist men from the past, without spending millions of dollars changing street signs.
+It's not the first time it's been considered either: the township of Russell, ON, near Ottawa, [has voted to "rededicate" their town](https://www.cbc.ca/news/canada/ottawa/russell-township-name-rededication-motion-1.5639713) from Peter Russell, a pre-Confederation government official who owned slaves, to another, more noble "Russell" (still to be determined).
 For Dundas Street, there is already a [Wikipedia entry](https://en.wikipedia.org/wiki/Dundas_(surname)) listing notable figures with the surname "Dundas".
 Take [Hugh Dundas](https://en.wikipedia.org/wiki/Hugh_Dundas), for example, a distinguished Royal Air Force pilot who fought Nazis in World War II.
 We need not limit ourselves to historical figures either—we can go local too.
-There are currently [23 "Dundas"s in Toronto](https://www.canada411.ca/search/si/2/dundas/Toronto+ON/), and [101 in Ontario](https://www.canada411.ca/search/si/2/dundas/Toronto+ON/).
+There are currently [23 "Dundas&rdquo;s in Toronto](https://www.canada411.ca/search/si/2/dundas/Toronto+ON/), and [101 in Ontario](https://www.canada411.ca/search/si/2/dundas/Toronto+ON/).
 Surely at least one of them would be willing to have a street named after them.
-We could even make a fun contest of it: *"Is your name Dundas? Have a major Toronto street rededicated to you."*
+We could even make a fun contest of it: *"Is your name Dundas? Have a major Toronto street rededicated to you.&rdquo;*
 
 An alternative solution, which has been floated frequently in how to handle statues honouring people like Henry Dundas, is to simply put up a plaque explaining how this person was oppressive, but preserve the statue itself as a sort of token with which we can educate ourselves, thus not "erasing history."
 This solution falls short for two reasons.
@@ -67,8 +67,8 @@ However, ask a Torontonian what the word "Dundas" means to them, they will tell 
 I believe the path forward is clear:
 
 1. Find a new namesake for each of the streets bearing the names of slave-owners, racists, and otherwise oppressive people.
-2. Instead of spending $6 million to change street signs, the city must commit to using an equivalent amount of money towards concrete actions that benefit the community; changing the namesake only is no *fait accompli*.
-3. Finally, if a plaque helps, be honest about the situation we faced, and how we resolved it: instead of spending millions of dollars to remove the name "Dundas" from our streets, we chose to change the namesake and instead put that money to good use.
+2. Instead of spending $6 million to change street signs, the city must commit to using an equivalent sum of money towards concrete actions that benefit the community; changing the namesake only is no *fait accompli*.
+3. Finally, if a plaque *does* help, we must be honest about the situation we faced, and how we resolved it: instead of spending millions of dollars to remove the name "Dundas" from our streets, we chose to change the namesake and instead put that money to good use.
 
 We have an opportunity to do some good here.
 Don't refactor the street names when the streets themselves are broken.
